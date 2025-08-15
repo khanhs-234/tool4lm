@@ -1,0 +1,49 @@
+{
+  "name": "tool4lm",
+  "version": "0.3.2",
+  "private": true,
+  "type": "module",
+  "main": "dist/server.js",
+  "scripts": {
+    "build": "tsc",
+    "start": "node --enable-source-maps dist/server.js",
+    "dev": "node --loader ts-node/esm src/server.ts",
+    "lint": "echo \"(optional) add eslint later\""
+  },
+  "dependencies": {
+    "@modelcontextprotocol/sdk": "^1.8.0",
+    "@mozilla/readability": "^0.5.0",
+    "cheerio": "^1.0.0-rc.12",
+    "fast-xml-parser": "^4.4.0",
+    "ipaddr.js": "^2.1.0",
+    "jsdom": "^24.0.0",
+    "mathjs": "^12.4.0",
+    "minisearch": "^7.0.0",
+    "pdf-parse": "^1.1.1",
+    "pino": "^9.0.0",
+    "undici": "^6.19.0",
+    "zod": "^3.23.8"
+  },
+  "devDependencies": {
+    "ts-node": "^10.9.2",
+    "typescript": "^5.5.4"
+  },
+  "bin": {
+    "tool4lm": "./dist/server.js"
+  },
+  "description": "All-in-one MCP server for local LLMs (web/doc/scholar/calc) \u2014 no API keys required.",
+  "keywords": [
+    "mcp",
+    "lm-studio",
+    "qwen",
+    "assistant",
+    "web-search",
+    "searxng",
+    "duckduckgo",
+    "arxiv",
+    "crossref",
+    "wikipedia",
+    "pdf",
+    "minisearch"
+  ]
+}

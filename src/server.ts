@@ -13,7 +13,7 @@ import { schSearch, schGet, wikiSearch, wikiGet } from './tools/scholar.js';
 
 const log = pino({ name: 'tool4lm', level: process.env.LOG_LEVEL || 'info' });
 
-const server = new McpServer({ name: 'tool4lm', version: '0.2.6' });
+const server = new McpServer({ name: 'tool4lm', version: '1.0' });
 
 const OPEN = { openWorldHint: true } as const;
 

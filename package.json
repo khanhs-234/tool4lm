@@ -1,6 +1,6 @@
 {
   "name": "tool4lm",
-  "version": "0.3.2",
+  "version": "1.0",
   "private": true,
   "type": "module",
   "main": "dist/server.js",
@@ -31,7 +31,7 @@
   "bin": {
     "tool4lm": "./dist/server.js"
   },
-  "description": "All-in-one MCP server for local LLMs (web/doc/scholar/calc) \u2014 no API keys required.",
+  "description": "All-in-one MCP server for local LLMs (web/doc/scholar/calc) no API keys required.",
   "keywords": [
     "mcp",
     "lm-studio",

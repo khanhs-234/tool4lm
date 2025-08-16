@@ -100,12 +100,12 @@ Issues/PRs rất hoan nghênh! Nếu thấy bug/đề xuất, mở issue giúp m
 
 ---
 
-## 📜 License
+## 📜 Giấy phép
 [MIT](LICENSE)
 
 ---
 
-## ☕ Donate
+## ☕ Ủng hộ
 
 Nếu bạn thấy dự án hữu ích, có thể ủng hộ mình qua PayPal:
 

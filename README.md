@@ -7,9 +7,13 @@
 > **All-in-one tools to supercharge your local or remote LLMs.**  
 > Search smarter. Calculate faster. Summarize better.
 
+<a href="https://glama.ai/mcp/servers/@khanhs-234/tool4lm">
+  <img width="380" height="200" src="https://glama.ai/mcp/servers/@khanhs-234/tool4lm/badge" alt="TOOL4LM MCP server" />
+</a>
+
 **TOOL4LM** là một **MCP (Model Context Protocol) server** viết bằng **Node.js/TypeScript** giúp bổ sung công cụ cho các mô hình ngôn ngữ chạy cục bộ (LM Studio/Ollama/…): **web search**, **đọc & tóm tắt trang**, **tìm & đọc tài liệu nội bộ**, **tra cứu học thuật**, và **máy tính**. Không cần API key mặc định.
 
----
+--- 
 
 ## ✨ Tính năng
 - 🔎 **Web Search**: tìm nhiều nguồn (SearXNG + DuckDuckGo HTML), khử trùng lặp, trả về tiêu đề + URL + snippet.

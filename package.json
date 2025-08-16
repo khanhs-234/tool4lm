@@ -1,6 +1,7 @@
 {
   "name": "tool4lm",
   "version": "1.0",
+  "license": "MIT",
   "private": true,
   "type": "module",
   "main": "dist/server.js",

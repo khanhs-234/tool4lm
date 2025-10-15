@@ -113,10 +113,10 @@ Issues/PRs rất hoan nghênh! Nếu thấy bug/đề xuất, mở issue giúp m
 
 Nếu bạn thấy dự án hữu ích, có thể ủng hộ mình qua PayPal:
 
-[![Donate with PayPal](https://img.shields.io/badge/Donate-PayPal-blue.svg)](https://www.paypal.com/paypalme/pooseart)
+[![Donate with PayPal](https://img.shields.io/badge/Donate-PayPal-blue.svg)](https://paypal.me/khanhs234)
 
 hoặc bấm nút bên dưới:
 
-<a href="https://www.paypal.com/paypalme/pooseart" target="_blank">
+<a href="https://paypal.me/khanhs234" target="_blank">
   <img src="https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif" alt="Donate via PayPal">
 </a>
